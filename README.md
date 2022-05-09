@@ -21,5 +21,3 @@
 Hector
 
 # Ürün Açıklaması 
-
-Hector oyunumuzda gelecek için 
